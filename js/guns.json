@@ -1,0 +1,747 @@
+[
+  {
+    "rank": 1,
+    "minimumSize": 2,
+    "guns": [
+      {
+        "size": 3,
+        "dualWield": false,
+        "name": "Winfield M1873C",
+        "price": 41,
+        "image": "img/winfieldc.jpg"
+      },
+      {
+        "size": 3,
+        "dualWield": false,
+        "name": "Winfield M1873C Silencer",
+        "price": 55,
+        "image": "img/winfieldc_sup.jpg"
+      },
+      {
+        "size": 3,
+        "dualWield": false,
+        "name": "Winfield M1873C Marksman",
+        "price": 56,
+        "image": "img/winfieldc_mark.jpg"
+      },
+      {
+        "size": 2,
+        "dualWield": false,
+        "name": "Winfield M1873C Vandal",
+        "price": 35,
+        "image": "img/winfieldc_van.jpg"
+      },
+      {
+        "size": 2,
+        "dualWield": false,
+        "name": "Winfield M1873C Vandal Deadeye",
+        "price": 45,
+        "image": "img/winfieldc_van_dead.jpg"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "minimumSize": 2,
+    "guns": [
+      {
+        "size": 3,
+        "dualWield": false,
+        "name": "Springfield 1866",
+        "price": 38,
+        "image": "img/springfield.jpg"
+      },
+      {
+        "size": 3,
+        "dualWield": false,
+        "name": "Springfield 1866 Marksman",
+        "price": 73,
+        "image": "img/springfield_mark.jpg"
+      },
+      {
+        "size": 2,
+        "dualWield": false,
+        "name": "Springfield 1866 Compact",
+        "price": 33,
+        "image": "img/springfield_com.jpg"
+      },
+      {
+        "size": 2,
+        "dualWield": false,
+        "name": "Springfield 1866 Compact Striker",
+        "price": 56,
+        "image": "img/springfield_com_str.jpg"
+      },
+      {
+        "size": 2,
+        "dualWield": false,
+        "name": "Springfield 1866 Compact Deadeye",
+        "price": 46,
+        "image": "img/springfield_com_dead.jpg"
+      }
+    ]
+  },
+  {
+    "rank": 6,
+    "minimumSize": 3,
+    "guns": [
+      {
+        "size": 3,
+        "dualWield": false,
+        "name": "Vetterli 71 Karabiner",
+        "price": 105,
+        "image": "img/vetterli.jpg"
+      },
+      {
+        "size": 3,
+        "dualWield": false,
+        "name": "Vetterli 71 Karabiner Deadeye",
+        "price": 155,
+        "image": "img/vetterli_dead.jpg"
+      },
+      {
+        "size": 3,
+        "dualWield": false,
+        "name": "Vetterli 71 Karabiner Bayonet",
+        "price": 130,
+        "image": "img/vetterli_bay.jpg"
+      }
+    ]
+  },
+  {
+    "rank": 16,
+    "minimumSize": 3,
+    "guns": [
+      {
+        "size": 3,
+        "dualWield": false,
+        "name": "Martini-Henry IC1",
+        "price": 122,
+        "image": "img/martini.jpg"
+      },
+      {
+        "size": 3,
+        "dualWield": false,
+        "name": "Martini-Henry IC1 Deadeye",
+        "price": 145,
+        "image": "img/martini_dead.jpg"
+      },
+      {
+        "size": 3,
+        "dualWield": false,
+        "name": "Martini-Henry IC1 Riposte",
+        "price": 164,
+        "image": "img/martini_rip.jpg"
+      },
+      {
+        "size": 3,
+        "dualWield": false,
+        "name": "Martini-Henry IC1 Marksman",
+        "price": 173,
+        "image": "img/martini_mark.jpg"
+      }
+    ]
+  },
+  {
+    "rank": 26,
+    "minimumSize": 3,
+    "guns": [
+      {
+        "size": 3,
+        "dualWield": false,
+        "name": "Sparks LRR",
+        "price": 130,
+        "image": "img/sparks.jpg"
+      },
+      {
+        "size": 3,
+        "dualWield": false,
+        "name": "Sparks LRR Silencer",
+        "price": 150,
+        "image": "img/sparks_sup.jpg"
+      },
+      {
+        "size": 3,
+        "dualWield": false,
+        "name": "Sparks LRR Sniper",
+        "price": 199,
+        "image": "img/sparks_snip.jpg"
+      }
+    ]
+  },
+  {
+    "rank": 42,
+    "minimumSize": 3,
+    "guns": [
+      {
+        "size": 3,
+        "dualWield": false,
+        "name": "Winfield M1873",
+        "price": 75,
+        "image": "img/winfield.jpg"
+      },
+      {
+        "size": 3,
+        "dualWield": false,
+        "name": "Winfield M1873 Aperture",
+        "price": 80,
+        "image": "img/winfield_ap.jpg"
+      },
+      {
+        "size": 3,
+        "dualWield": false,
+        "name": "Winfield M1873 Talon",
+        "price": 100,
+        "image": "img/winfield_tal.jpg"
+      },
+      {
+        "size": 3,
+        "dualWield": false,
+        "name": "Winfield M1873 Swift",
+        "price": 128,
+        "image": "img/winfield_swi.jpg"
+      }
+    ]
+  },
+  {
+    "rank": 52,
+    "minimumSize": 3,
+    "guns": [
+      {
+        "size": 3,
+        "dualWield": false,
+        "name": "Lebel 1886",
+        "price": 397,
+        "image": "img/lebel.jpg"
+      },
+      {
+        "size": 3,
+        "dualWield": false,
+        "name": "Lebel 1886 Talon",
+        "price": 422,
+        "image": "img/lebel_tal.jpg"
+      },
+      {
+        "size": 3,
+        "dualWield": false,
+        "name": "Lebel 1886 Marksman",
+        "price": 437,
+        "image": "img/lebel_mark.jpg"
+      }
+    ]
+  },
+  {
+    "rank": 72,
+    "minimumSize": 2,
+    "guns": [
+      {
+        "size": 3,
+        "dualWield": false,
+        "name": "Mosin-Nagant M1891",
+        "price": 490,
+        "image": "img/mosin.jpg"
+      },
+      {
+        "size": 2,
+        "dualWield": false,
+        "name": "Mosin-Nagant M1891 Obrez",
+        "price": 290,
+        "image": "img/mosin_obr.jpg"
+      },
+      {
+        "size": 3,
+        "dualWield": false,
+        "name": "Mosin-Nagant M1891 Bayonet",
+        "price": 540,
+        "image": "img/mosin_bay.jpg"
+      },
+      {
+        "size": 2,
+        "dualWield": false,
+        "name": "Mosin-Nagant M1891 Obrez Mace",
+        "price": 310,
+        "image": "img/mosin_obr_mace.jpg"
+      },
+      {
+        "size": 3,
+        "dualWield": false,
+        "name": "Mosin-Nagant M1891 Sniper",
+        "price": 550,
+        "image": "img/mosin_snip.jpg"
+      },
+      {
+        "size": 2,
+        "dualWield": false,
+        "name": "Mosin-Nagant M1891 Obrez Drum",
+        "price": 350,
+        "image": "img/mosin_obr_drum.jpg"
+      },
+      {
+        "size": 3,
+        "dualWield": false,
+        "name": "Mosin-Nagant M1891 Avtomat",
+        "price": 1250,
+        "image": "img/mosin_avto.jpg"
+      }
+    ]
+  },
+  {
+    "rank": 88,
+    "minimumSize": 3,
+    "guns": [
+      {
+        "size": 3,
+        "dualWield": false,
+        "name": "Nitro Express Rifle",
+        "price": 1015,
+        "image": "img/nitro.jpg"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "minimumSize": 1,
+    "guns": [
+      {
+        "size": 1,
+        "dualWield": false,
+        "name": "Nagant M1895",
+        "price": 24,
+        "image": "img/nagant.jpg"
+      },
+      {
+        "size": 2,
+        "dualWield": true,
+        "name": "Dual Nagant M1895",
+        "price": 48,
+        "image": "img/nagant_dual.jpg"
+      },
+      {
+        "size": 2,
+        "dualWield": false,
+        "name": "Nagant M1895 Precision",
+        "price": 29,
+        "image": "img/nagant_prec.jpg"
+      },
+      {
+        "size": 1,
+        "dualWield": false,
+        "name": "Nagant M1895 Silencer",
+        "price": 53,
+        "image": "img/nagant_sup.jpg"
+      },
+      {
+        "size": 2,
+        "dualWield": true,
+        "name": "Dual Nagant M1895 Silencer",
+        "price": 106,
+        "image": "img/nagant_sup_dual.jpg"
+      },
+      {
+        "size": 2,
+        "dualWield": false,
+        "name": "Nagant M1895 Deadeye",
+        "price": 42,
+        "image": "img/nagant_prec_dead.jpg"
+      }
+    ]
+  },
+  {
+    "rank": 10,
+    "minimumSize": 1,
+    "guns": [
+      {
+        "size": 1,
+        "dualWield": false,
+        "name": "Caldwell Pax",
+        "price": 100,
+        "image": "img/pax.jpg"
+      },
+      {
+        "size": 2,
+        "dualWield": true,
+        "name": "Dual Caldwell Pax",
+        "price": 200,
+        "image": "img/pax_dual.jpg"
+      },
+      {
+        "size": 1,
+        "dualWield": false,
+        "name": "Caldwell Pax Claw",
+        "price": 125,
+        "image": "img/pax_claw.jpg"
+      },
+      {
+        "size": 2,
+        "dualWield": true,
+        "name": "Dual Caldwell Pax Claw",
+        "price": 250,
+        "image": "img/pax_claw_dual.jpg"
+      }
+    ]
+  },
+  {
+    "rank": 22,
+    "minimumSize": 1,
+    "guns": [
+      {
+        "size": 1,
+        "dualWield": false,
+        "name": "Caldwell Conversion Pistol",
+        "price": 26,
+        "image": "img/conversion.jpg"
+      },
+      {
+        "size": 2,
+        "dualWield": true,
+        "name": "Dual Caldwell Conversion Pistol",
+        "price": 52,
+        "image": "img/conversion_dual.jpg"
+      },
+      {
+        "size": 1,
+        "dualWield": false,
+        "name": "Caldwell Conversion Chain Pistol",
+        "price": 50,
+        "image": "img/conversion_chain.jpg"
+      },
+      {
+        "size": 2,
+        "dualWield": true,
+        "name": "Dual Caldwell Conversion Chain Pistol",
+        "price": 100,
+        "image": "img/conversion_chain_dual.jpg"
+      },
+      {
+        "size": 1,
+        "dualWield": false,
+        "name": "Caldwell Conversion Upercut",
+        "price": 275,
+        "image": "img/conversion_up.jpg"
+      },
+      {
+        "size": 2,
+        "dualWield": true,
+        "name": "Dual Caldwell Conversion Upercut",
+        "price": 550,
+        "image": "img/conversion_up_dual.jpg"
+      }
+    ]
+  },
+  {
+    "rank": 30,
+    "minimumSize": 1,
+    "guns": [
+      {
+        "size": 1,
+        "dualWield": false,
+        "name": "Bornheim No. 3",
+        "price": 201,
+        "image": "img/bornheim.jpg"
+      },
+      {
+        "size": 2,
+        "dualWield": true,
+        "name": "Dual Bornheim No. 3",
+        "price": 402,
+        "image": "img/bornheim_dual.jpg"
+      },
+      {
+        "size": 1,
+        "dualWield": false,
+        "name": "Bornheim No. 3 Extended",
+        "price": 306,
+        "image": "img/bornheim_ext.jpg"
+      },
+      {
+        "size": 2,
+        "dualWield": true,
+        "name": "Dual Bornheim No. 3 Extended",
+        "price": 612,
+        "image": "img/bornheim_ext_dual.jpg"
+      },
+      {
+        "size": 2,
+        "dualWield": false,
+        "name": "Bornheim No. 3 Match",
+        "price": 224,
+        "image": "img/bornheim_match.jpg"
+      }
+    ]
+  },
+  {
+    "rank": 36,
+    "minimumSize": 1,
+    "guns": [
+      {
+        "size": 1,
+        "dualWield": false,
+        "name": "Nagant M1895 Officer",
+        "price": 66,
+        "image": "img/officer.jpg"
+      },
+      {
+        "size": 2,
+        "dualWield": true,
+        "name": "Dual Nagant M1895 Officer",
+        "price": 132,
+        "image": "img/officer_dual.jpg"
+      },
+      {
+        "size": 1,
+        "dualWield": false,
+        "name": "Nagant M1895 Officer Brawler",
+        "price": 80,
+        "image": "img/officer_bra.jpg"
+      },
+      {
+        "size": 2,
+        "dualWield": true,
+        "name": "Dual Nagant M1895 Officer Brawler",
+        "price": 160,
+        "image": "img/officer_bra_dual.jpg"
+      },
+      {
+        "size": 3,
+        "dualWield": false,
+        "name": "Nagant M1895 Officer Carbine",
+        "price": 80,
+        "image": "img/officer_carb.jpg"
+      }
+    ]
+  },
+  {
+    "rank": 46,
+    "minimumSize": 1,
+    "guns": [
+      {
+        "size": 1,
+        "dualWield": false,
+        "name": "LeMat Mark II Revolver",
+        "price": 95,
+        "image": "img/lemat.jpg"
+      },
+      {
+        "size": 2,
+        "dualWield": true,
+        "name": "Dual LeMat Mark II Revolver",
+        "price": 190,
+        "image": "img/lemat_dual.jpg"
+      }
+    ]
+  },
+  {
+    "rank": 68,
+    "minimumSize": 1,
+    "guns": [
+      {
+        "size": 1,
+        "dualWield": false,
+        "name": "Dolch 96",
+        "price": 750,
+        "image": "img/dolch.jpg"
+      },
+      {
+        "size": 2,
+        "dualWield": true,
+        "name": "Dual Dolch 96",
+        "price": 1500,
+        "image": "img/dolch_dual.jpg"
+      },
+      {
+        "size": 2,
+        "dualWield": false,
+        "name": "Dolch 96 Precision",
+        "price": 790,
+        "image": "img/dolch_prec.jpg"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "minimumSize": 2,
+    "guns": [
+      {
+        "size": 3,
+        "dualWield": false,
+        "name": "Romero 77",
+        "price": 34,
+        "image": "img/romero.jpg"
+      },
+      {
+        "size": 2,
+        "dualWield": false,
+        "name": "Romero 77 Handcannon",
+        "price": 26,
+        "image": "img/romero_hand.jpg"
+      },
+      {
+        "size": 3,
+        "dualWield": false,
+        "name": "Romero 77 Talon",
+        "price": 59,
+        "image": "img/romero_tal.jpg"
+      },
+      {
+        "size": 2,
+        "dualWield": false,
+        "name": "Romero 77 Hatchet",
+        "price": 62,
+        "image": "img/romero_hatc.jpg"
+      }
+    ]
+  },
+  {
+    "rank": 18,
+    "minimumSize": 2,
+    "guns": [
+      {
+        "size": 3,
+        "dualWield": false,
+        "name": "Caldwell Rival 78",
+        "price": 100,
+        "image": "img/rival.jpg"
+      },
+      {
+        "size": 2,
+        "dualWield": false,
+        "name": "Caldwell Rival 78 Handcannon",
+        "price": 85,
+        "image": "img/rival_hand.jpg"
+      }
+    ]
+  },
+  {
+    "rank": 58,
+    "minimumSize": 2,
+    "guns": [
+      {
+        "size": 3,
+        "dualWield": false,
+        "name": "Specter 1882",
+        "price": 188,
+        "image": "img/specter.jpg"
+      },
+      {
+        "size": 2,
+        "dualWield": false,
+        "name": "Specter 1882 Compact",
+        "price": 164,
+        "image": "img/specter_com.jpg"
+      },
+      {
+        "size": 3,
+        "dualWield": false,
+        "name": "Specter 1882 Bayonet",
+        "price": 223,
+        "image": "img/specter_bay.jpg"
+      }
+    ]
+  },
+  {
+    "rank": 82,
+    "minimumSize": 3,
+    "guns": [
+      {
+        "size": 3,
+        "dualWield": false,
+        "name": "Crown And King Auto-5",
+        "price": 600,
+        "image": "img/crown.jpg"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "minimumSize": 2,
+    "guns": [
+      {
+        "size": 2,
+        "dualWield": false,
+        "name": "Combat Axe",
+        "price": 5,
+        "image": "img/axe.jpg"
+      }
+    ]
+  },
+  {
+    "rank": 12,
+    "minimumSize": 1,
+    "guns": [
+      {
+        "size": 1,
+        "dualWield": false,
+        "name": "Machete",
+        "price": 18,
+        "image": "img/machete.jpg"
+      }
+    ]
+  },
+  {
+    "rank": 62,
+    "minimumSize": 1,
+    "guns": [
+      {
+        "size": 1,
+        "dualWield": false,
+        "name": "Cavalry Saber",
+        "price": 60,
+        "image": "img/saber.jpg"
+      }
+    ]
+  },
+  {
+    "rank": 78,
+    "minimumSize": 3,
+    "guns": [
+      {
+        "size": 3,
+        "dualWield": false,
+        "name": "Bomb Lance",
+        "price": 199,
+        "image": "img/bomb_lance.jpg"
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "minimumSize": 2,
+    "guns": [
+      {
+        "size": 2,
+        "dualWield": false,
+        "name": "Hand Crossbow",
+        "price": 44,
+        "image": "img/crossbow_hand.jpg"
+      },
+      {
+        "size": 2,
+        "dualWield": false,
+        "name": "Hand Crossbow Poison",
+        "price": 61,
+        "image": "img/crossbow_hand_poi.jpg"
+      },
+      {
+        "size": 3,
+        "dualWield": false,
+        "name": "Crossbow",
+        "price": 73,
+        "image": "img/crossbow.jpg"
+      },
+      {
+        "size": 3,
+        "dualWield": false,
+        "name": "Crossbow Explosive",
+        "price": 130,
+        "image": "img/crossbow_ex.jpg"
+      },
+      {
+        "size": 3,
+        "dualWield": false,
+        "name": "Crossbow Shotbolt",
+        "price": 150,
+        "image": "img/crossbow_sho.jpg"
+      }
+    ]
+  }
+]
