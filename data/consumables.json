@@ -1,0 +1,142 @@
+[
+  {
+    "rank": 1,
+    "consumables": [
+      {
+        "name": "Fire Bomb",
+        "price": 18,
+        "image": "img/fire.jpg"
+      },
+      {
+        "name": "Liquid Fire Bomb",
+        "price": 23,
+        "image": "img/fire_liq.jpg"
+      },
+      {
+        "name": "Hellfire Bomb",
+        "price": 70,
+        "image": "img/fire_hell.jpg"
+      }
+    ]
+  },
+  {
+    "rank": 8,
+    "consumables": [
+      {
+        "name": "Dynamite Stick",
+        "price": 18,
+        "image": "img/dynamite.jpg"
+      },
+      {
+        "name": "Waxed Dynamite Stick",
+        "price": 24,
+        "image": "img/dynamite_wax.jpg"
+      },
+      {
+        "name": "Sticky Bomb",
+        "price": 64,
+        "image": "img/sticky.jpg"
+      },
+      {
+        "name": "Dynamite Bundle",
+        "price": 75,
+        "image": "img/dynamite_bun.jpg"
+      },
+      {
+        "name": "Frag Bomb",
+        "price": 70,
+        "image": "img/frag.jpg"
+      },
+      {
+        "name": "Big Dynamite Bundle",
+        "price": 110,
+        "image": "img/dynamite_big.jpg"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "consumables": [
+      {
+        "name": "Weak Vitality Shot",
+        "price": 10,
+        "image": "img/vitality_weak.jpg"
+      },
+      {
+        "name": "Weak Stamina Shot",
+        "price": 10,
+        "image": "img/stamina_weak.jpg"
+      },
+      {
+        "name": "Vitality Shot",
+        "price": 75,
+        "image": "img/vitality.jpg"
+      },
+      {
+        "name": "Stamina Shot",
+        "price": 40,
+        "image": "img/stamina.jpg"
+      }
+    ]
+  },
+  {
+    "rank": 48,
+    "consumables": [
+      {
+        "name": "Poison Bomb",
+        "price": 25,
+        "image": "img/poison.jpg"
+      },
+      {
+        "name": "Weak Antidote Shot",
+        "price": 25,
+        "image": "img/antidote_weak.jpg"
+      },
+      {
+        "name": "Antidote Shot",
+        "price": 55,
+        "image": "img/antidote.jpg"
+      },
+      {
+        "name": "Hive Bomb",
+        "price": 40,
+        "image": "img/hive.jpg"
+      }
+    ]
+  },
+  {
+    "rank": 32,
+    "consumables": [
+      {
+        "name": "Chaos Bomb",
+        "price": 15,
+        "image": "img/chaos.jpg"
+      }
+    ]
+  },
+  {
+    "rank": 40,
+    "consumables": [
+      {
+        "name": "Concertina Bomb",
+        "price": 48,
+        "image": "img/concertina.jpg"
+      },
+      {
+        "name": "Flash Bomb",
+        "price": 47,
+        "image": "img/flash.jpg"
+      }
+    ]
+  },
+  {
+    "rank": 80,
+    "consumables": [
+      {
+        "name": "Ammo Box",
+        "price": 65,
+        "image": "img/ammo.jpg"
+      }
+    ]
+  }
+]

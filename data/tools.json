@@ -1,0 +1,142 @@
+[
+  {
+    "rank": 1,
+    "tools": [
+      {
+        "name": "Knife",
+        "price": 20,
+        "image": "img/knife.jpg"
+      },
+      {
+        "name": "Throwing Knives",
+        "price": 40,
+        "image": "img/knife_throw.jpg"
+      },
+      {
+        "name": "Heavy Knife",
+        "price": 25,
+        "image": "img/knife_heavy.jpg"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "tools": [
+      {
+        "name": "Electric Lamp",
+        "price": 5,
+        "image": "img/lamp.jpg"
+      },
+      {
+        "name": "Fusees",
+        "price": 5,
+        "image": "img/fusees.jpg"
+      },
+      {
+        "name": "Flare Pistol",
+        "price": 36,
+        "image": "img/flare.jpg"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "tools": [
+      {
+        "name": "First Aid Kit",
+        "price": 30,
+        "image": "img/aid.jpg"
+      }
+    ]
+  },
+  {
+    "rank": 11,
+    "tools": [
+      {
+        "name": "Choke Bomb",
+        "price": 25,
+        "image": "img/choke.jpg"
+      }
+    ]
+  },
+  {
+    "rank": 20,
+    "tools": [
+      {
+        "name": "Dusters",
+        "price": 15,
+        "image": "img/dusters.jpg"
+      },
+      {
+        "name": "Knuckle Knife",
+        "price": 15,
+        "image": "img/knuckle.jpg"
+      }
+    ]
+  },
+  {
+    "rank": 24,
+    "tools": [
+      {
+        "name": "Spyglass",
+        "price": 8,
+        "image": "img/spyglass.jpg"
+      }
+    ]
+  },
+  {
+    "rank": 32,
+    "tools": [
+      {
+        "name": "Decoys",
+        "price": 6,
+        "image": "img/decoy.jpg"
+      },
+      {
+        "name": "Alert Trip Mine",
+        "price": 15,
+        "image": "img/trip_alert.jpg"
+      },
+      {
+        "name": "Blank Fire Decoys",
+        "price": 45,
+        "image": "img/decoy_blank.jpg"
+      },
+      {
+        "name": "Decoy Fuses",
+        "price": 60,
+        "image": "img/decoy_fuses.jpg"
+      }
+    ]
+  },
+  {
+    "rank": 40,
+    "tools": [
+      {
+        "name": "Concertina Trip Mine",
+        "price": 90,
+        "image": "img/trip_con.jpg"
+      }
+    ]
+  },
+  {
+    "rank": 48,
+    "tools": [
+      {
+        "name": "Poison Trip Mine",
+        "price": 60,
+        "image": "img/trip_poi.jpg"
+      }
+    ]
+  },
+  {
+    "rank": 66,
+    "tools": [
+      {
+        "name": "Quad Derringer",
+        "price": 60,
+        "image": "img/derringer.jpg"
+      }
+    ]
+  }
+]
